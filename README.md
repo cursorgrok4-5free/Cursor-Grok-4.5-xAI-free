@@ -3,7 +3,7 @@
 **Cursor Grok 4.5 xAI Free** gives you free access to Grok 4.5 on Windows, macOS, and Linux without X Premium. Grok 4.5 benchmarks show strong coding performance vs Opus 4.8, with real-time web search built in and EU access via this desktop client.
 
 
-<img width="1024" height="1024" alt="images1" src="https://github.com/user-attachments/assets/b71a3030-0dba-415e-b183-47f52a2137ca" /><img width="400" height="400" alt="images2" src="https://github.com/user-attachments/assets/ffce6223-e00f-49eb-8657-cfa5bde5ecdc" />
+<img width="200" height="200" alt="images1" src="https://github.com/user-attachments/assets/b71a3030-0dba-415e-b183-47f52a2137ca" /><img width="200" height="200" alt="images2" src="https://github.com/user-attachments/assets/ffce6223-e00f-49eb-8657-cfa5bde5ecdc" />
 
 
 
