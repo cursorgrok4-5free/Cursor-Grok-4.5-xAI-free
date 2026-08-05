@@ -1,0 +1,6 @@
+.chat-input { flex: 1; display: flex; gap: 8px; }
+.chat-input__textarea {
+  flex: 1; padding: 10px 14px; border-radius: 24px;
+  border: 1px solid #2f3336; background: #16181c; color: #e7e9ea;
+  font-size: 14px; resize: none; outline: none; font-family: inherit;
+}
